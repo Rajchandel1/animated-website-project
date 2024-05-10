@@ -165,7 +165,7 @@ nav h1{
 
 
 .card .elem1{
-    height: 30vh;
+    height: fit-content;
     width: 30vw;
     border-radius: 40px;
     box-shadow: 0px 5px 0 black;
@@ -213,7 +213,7 @@ height: 25vh;
 
 
 .card .elem2{
-    height: 30vh;
+    height: fit-content;
     width: 30vw;
     border-radius: 40px;
     border-radius: 40px;
@@ -263,7 +263,7 @@ height: 25vh;
 
 
 .card .elem3{
-    height: 30vh;
+    height: fit-content;
     width: 30vw;
     border-radius: 40px;
     background-color: #191A23;
@@ -311,7 +311,7 @@ height: 25vh;
 
 
 .card .elem4{
-    height: 30vh;
+    height: fit-content;
     width: 30vw;
     border-radius: 40px;
     box-shadow: 0px 5px 0 black;
@@ -360,7 +360,7 @@ height: 25vh;
 
 
 .card .elem5{
-    height: 30vh;
+    height: fit-content;
     width: 30vw;
     border-radius: 40px;
     background-color: #9AE975;
@@ -408,7 +408,7 @@ height: 25vh;
 
 
 .card .elem6{
-    height: 30vh;
+    height: fit-content;
     width: 30vw;
     border-radius: 40px;
     background-color: #191A23;
